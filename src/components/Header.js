@@ -22,7 +22,7 @@ export default class Header extends Component{
                             <Link className="nav-link" to="/Pricing">Pricing</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/Login">Login</Link>
+                            <Link className="nav-link" to="/GirisYap">Giriş Yap</Link>
                         </li>
                         </ul>
                     </div>
